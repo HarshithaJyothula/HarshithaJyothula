@@ -1,8 +1,4 @@
-## 🪐 Harshitha Jyothula Account
-
-![Role](https://img.shields.io/badge/ECE%20Undergraduate-Frontend%20%7C%20Python%20%26%20ML-blue?style=for-the-badge)
-
----
+## 🪐 Harshitha Jyothula 
 
 ## About Me
 - 🎓 B.Tech student in **Electronics & Communication Engineering**
@@ -23,7 +19,7 @@
 ## Skill Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,js,tailwind,figma,github,vscode,matlab," />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,tailwind,figma,github,vscode,matlab," />
 </p>
 
 <!--
