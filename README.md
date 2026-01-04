@@ -12,11 +12,6 @@
 
 ---
 
-## Links
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/RESUME-0A66C2?style=for-the-badge&logo=readme&logoColor=white"/></a>
-<a href="mailto:harshithaj1104@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 ---
 
 ## Connect with me
@@ -28,14 +23,8 @@
 ## Skill Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,tailwind,sklearn,pandas,git,github,vscode,jupyter,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,c,c++,html,css,js,tailwind,figma,github,vscode,matlab," />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HFSS-ECE%20Simulation-6A5ACD?style=for-the-badge"/>
-</p>
-
-
 
 <!--
 **HarshithaJyothula/HarshithaJyothula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
