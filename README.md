@@ -8,8 +8,6 @@
 
 ---
 
----
-
 ## Connect with me
 <a href="https://www.linkedin.com/in/harshitha-jyothula/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://github.com/HarshithaJyothula"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/></a>
