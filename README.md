@@ -1,4 +1,4 @@
-## 🪐 Harshitha Jyothula 
+##  Harshitha Jyothula 
 
 ## About Me
 - 🎓 B.Tech student in **Electronics & Communication Engineering**
