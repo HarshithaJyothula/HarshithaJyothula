@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with expertise in **Web Development** and **Cloud Technologies* *and **AI/ML engineering**
+- 💻 Full Stack Developer with expertise in **Web Development** and **Cloud Technologies**and **AI/ML engineering**
 - 🎓 Always learning and exploring new technologies
 - 🌐 Open to collaborating on interesting projects
 - 📍 Based in India | Available for remote opportunities
@@ -47,10 +47,10 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-jyothula/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](
+harshithaj1104@gmail.com)
 
 </div>
 
@@ -60,7 +60,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 - 🎮 Game enthusiast
 - 📖 Love reading tech blogs and documentation
-- ☕ Coffee is my best friend while coding
 - 🎨 Interested in UI/UX design
 
 ---
