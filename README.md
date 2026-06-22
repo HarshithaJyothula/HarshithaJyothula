@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Harshitha Jyothula | Full Stack Developer | Tech Enthusiast
+## I'm Harshitha Jyothula | Full Stack Developer | AI/ML engineering
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions and contributing to open-source projects.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer with expertise in **Web Development** and **Cloud Technologies**
+- 💻 Full Stack Developer with expertise in **Web Development** and **Cloud Technologies* *and **AI/ML engineering**
 - 🎓 Always learning and exploring new technologies
 - 🌐 Open to collaborating on interesting projects
 - 📍 Based in India | Available for remote opportunities
@@ -43,44 +43,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilesh112606&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh112606&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### Project 1: [Awesome Project Name](https://github.com/akhilesh112606/project-name)
-> Brief description of your project
-- Built with **React**, **Node.js**, and **MongoDB**
-- Features: Authentication, Real-time updates, Responsive design
-- ⭐ **Stars**: 50+
-
-### Project 2: [Another Great Project](https://github.com/akhilesh112606/another-project)
-> Description of this amazing project
-- Technologies: **Python**, **Django**, **PostgreSQL**
-- Highlights: API development, Database optimization
-- 🔗 [Live Demo](https://project-demo.com)
-
----
-
-## 💡 What I'm Currently Working On
-
-- 🔨 Building scalable full-stack applications
-- 📚 Contributing to open-source projects
-- 🌱 Learning **Cloud Technologies** and **DevOps**
-- 🤝 Collaborating with the developer community
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -91,14 +53,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 [![Email](https://img.shields.io/badge/-Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
-
----
-
-## 📝 Latest Blog Posts
-
-- [Post Title 1](#) - Brief description
-- [Post Title 2](#) - Brief description
-- [Post Title 3](#) - Brief description
 
 ---
 
@@ -113,8 +67,6 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 <div align="center">
 
-**Made with ❤️ by [Your Name]**
-
-![Visitors](https://komarev.com/ghpvc/?username=akhilesh112606&color=blue&style=flat-square)
+**Made with ❤️ by [Harsyyy]**
 
 </div>
